@@ -2,15 +2,15 @@
 
 
 ### Work Experience
-Data Analyst @ XYZ Films (_August 2023 – August 2024_)
+**Data Analyst** @ XYZ Films (_August 2023 – August 2024_)
 
-Digital Marketing Intern @ C3.ai (_June 2022 – August 2022_)
+**Digital Marketing Specialist** @ C3.ai (_June 2022 – August 2022_)
 
-Business Development Manager @ KPIT Technologies (_June 2019 – June 2021_)
+**Business Development Manager** @ KPIT Technologies (_June 2019 – June 2021_)
 
-Sr. Pre-Sales Analyst @ KPIT Technologies	(_April 2015 – June 2019_)
+**Sr. Pre-Sales Analyst** @ KPIT Technologies	(_April 2015 – June 2019_)
 
-Systems Engineer @ Tata Consultancy Services (_September 2010 – June 2013_)
+**Systems Engineer** @ Tata Consultancy Services (_September 2010 – June 2013_)
 
 ### Projects
 
